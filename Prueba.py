@@ -1,1 +1,1 @@
-print ("Hola MUNDO.")
+print ("Hola MUNDO")
